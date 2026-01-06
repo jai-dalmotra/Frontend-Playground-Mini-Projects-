@@ -1,0 +1,55 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f1f3f6;
+  padding: 30px;
+}
+
+.product-card {
+  width: 280px;
+  background: #fff;
+  padding: 15px;
+  border-radius: 6px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.deal {
+  background: #cc0c39;
+  color: white;
+  padding: 4px 8px;
+  font-size: 12px;
+  display: inline-block;
+  margin-bottom: 6px;
+  border-radius: 4px;
+}
+
+.product-name {
+  font-size: 16px;
+  margin: 8px 0;
+}
+
+.rating {
+  color: #ffa41c;
+  font-size: 14px;
+}
+
+.price {
+  margin-top: 10px;
+}
+
+.original {
+  text-decoration: line-through;
+  color: #777;
+  font-size: 14px;
+}
+
+.discount {
+  color: #cc0c39;
+  font-size: 14px;
+  margin-left: 6px;
+}
+
+.final-price {
+  font-size: 22px;
+  font-weight: bold;
+  margin-top: 5px;
+}
